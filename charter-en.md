@@ -402,6 +402,27 @@ Third Lock: Asset Preservation Lock.
 · This lock prevents "platform running away with funds" or "system collapse leading to wealth evaporation."
 
 Together, these three locks give the system "resilience" while remaining "open."
+(Anti-Dilution and Anti-Seizure Properties)
+
+FairCoin has inherent anti-dilution and anti-seizure properties. These properties are achieved through the following three mechanisms:
+
+（1）Issuance Authority Belongs to All Members
+   · No individual or minority group has the authority to unilaterally decide on issuance increases.
+   · Any issuance increase must go through democratic decision-making (voting or consultation) by all members.
+   · Issuance authority is held by every person, not by algorithms, founders, or majority factions.
+（2）Wealth Cannot Be Seized
+   · Legitimately held FairCoin of any member cannot be deprived by other members, administrators, or community votes.
+   · The maximum penalty for violations is limited to the direct economic loss caused by the violation, and must be based on factual evidence.
+   · There is no mechanism for "majority voting to seize minority assets."
+（3）Charter Amendment Protections
+   · Any amendments involving issuance mechanisms or asset protection require a 2/3 majority and a voter turnout exceeding 50%.
+   · Untouchable red lines (Article 34) prohibit amendment of core principles such as "labor is the only legitimate means of obtaining FairCoin" and "assets cannot be deprived."
+
+This means:
+
+· Your coins will not be diluted because others want to increase issuance.
+· Your coins will not be seized because others want to take them.
+· Your wealth is in your own hands.
 
 IV. Two Members Can Operate
 
