@@ -11,6 +11,10 @@ Wealth lets you live better, but never at the expense of others.
 Three Pillars
 
 1. Labor Creates Value — FairCoin can only be obtained through real work or legitimate services. No pre-sales, no airdrops, no mining.
+
+"Any activity that creates real value for the community, whether physical or intellectual in form, may be recognized as a labor contribution. The valuation of labor shall be determined by the community through voting, based on the fair market price of comparable services in the local market.
+
+The community does not presuppose that any form of labor is "superior" to another. Intellectual labor and physical labor are entirely equal in governance voting, but in market exchange, their respective values are determined by the local market."
 2. Personhood Determines Power — Community governance follows "One Person, One Vote." Economic capacity and political power are permanently separated.
 3. Credit Supports Circulation — Rights come with obligations. Holding coins means a commitment to redeem. Those who refuse to redeem are naturally constrained by the system.
 
