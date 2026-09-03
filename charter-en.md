@@ -16,6 +16,14 @@ Three Pillars
 
 The community does not presuppose that any form of labor is "superior" to another. Intellectual labor and physical labor are entirely equal in governance voting, but in market exchange, their respective values are determined by the local market."
 2. Personhood Determines Power — Community governance follows "One Person, One Vote." Economic capacity and political power are permanently separated.
+
+The issuance amount of FairCoin shall be determined collectively by all members through consultation and voting mechanisms.
+
+（1）Initial Issuance: The first general meeting of the community shall vote to determine the total initial issuance amount. Any member may propose a specific amount. Proposals shall undergo a discussion period of no less than 7 days before voting.
+（2）Decision Mechanism: Issuance decisions shall be made through median voting or quadratic voting, ensuring that every member's preference is reflected in the final outcome. In a two-member community where one proposes 9 coins and the other proposes 1 coin, the median voting result would be 5 coins — reflecting the spirit of compromise, rather than unilateral majority rule.
+（3）Subsequent Adjustments: After the initial issuance is determined, subsequent issuance (contribution issuance and operational issuance) shall follow the mechanisms specified in Article 9. Any member may initiate a proposal to adjust the issuance amount, subject to the same discussion and voting procedures.
+（4）Core Principle: Issuance authority belongs not to algorithms, founders, or any minority group, but to all members collectively. The final issuance amount is the result of collective consultation, and no single party's preference shall be imposed upon others.
+
 3. Credit Supports Circulation — Rights come with obligations. Holding coins means a commitment to redeem. Those who refuse to redeem are naturally constrained by the system.
 
 Chapter I · On Currency
